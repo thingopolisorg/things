@@ -6,7 +6,7 @@ title: Introduction to Computers and Information Processing
 
 - Title := Introduction To Computers And Information Processing
 
-- Author := Don Cassel, Martin Jackson
+- Author := Don Cassel and Martin Jackson
 
 - Publisher := Reston Publishing Company, Inc
 
