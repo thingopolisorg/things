@@ -1,0 +1,24 @@
+---
+layout: post
+category: video games
+title: Boxing
+---
+
+- Title := Boxing
+
+- Authors := Bob Whitehead
+
+- Publisher := Activision
+
+- Year := July 1980
+
+- Platform := Atari2600
+
+!https://farm8.staticflickr.com/7499/15683594688_b9836a2c29.jpg!
+!https://farm9.staticflickr.com/8618/15871108735_0b398cac6a.jpg!
+!https://farm8.staticflickr.com/7471/15871108355_a0b649b0b5.jpg!
+!https://farm8.staticflickr.com/7547/15683593768_047ff3aa00.jpg!
+!https://farm8.staticflickr.com/7546/15685346157_f299ec58eb.jpg!
+!https://farm9.staticflickr.com/8606/15870467462_f48559fc0b.jpg!
+!https://farm8.staticflickr.com/7496/15685345667_68ced41d40.jpg!
+!https://farm8.staticflickr.com/7504/15871107155_12ed145266.jpg!
