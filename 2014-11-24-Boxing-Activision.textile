@@ -14,8 +14,7 @@ title: Boxing
 
 - Platform := Atari2600
 
-!https://farm8.staticflickr.com/7499/15683594688_b9836a2c29.jpg!
-!https://farm9.staticflickr.com/8618/15871108735_0b398cac6a.jpg!
+!https://farm8.staticflickr.com/7499/15683594688_b9836a2c29.jpg!!https://farm9.staticflickr.com/8618/15871108735_0b398cac6a.jpg!
 !https://farm8.staticflickr.com/7471/15871108355_a0b649b0b5.jpg!
 !https://farm8.staticflickr.com/7547/15683593768_047ff3aa00.jpg!
 !https://farm8.staticflickr.com/7546/15685346157_f299ec58eb.jpg!
