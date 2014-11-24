@@ -1,0 +1,16 @@
+---
+layout: post
+category: books
+title: Introduction To Computers And Information Processing
+---
+
+- Title := Introduction To Computers And Information Processing
+
+- Author := Don Cassel, Martin Jackson
+
+- Publisher := Reston Publishing Company, Inc
+
+- Year := 1980, 1981
+
+!https://farm8.staticflickr.com/7498/15684578309_baf5eed579.jpg!
+!https://farm9.staticflickr.com/8667/15844777666_0a91e3ea55.jpg!
