@@ -1,0 +1,20 @@
+---
+layout: post
+category: lp
+title: You Sing a Song and I'll Sing a Song
+---
+
+- Title := You Sing a Song and I'll Sing a Song
+
+- Authors := Ella Jenkins
+
+- Publisher := 
+
+- Year := 
+
+
+!https://farm8.staticflickr.com/7491/15253364874_ac5508a5ae.jpg!
+!https://farm8.staticflickr.com/7477/15874966532_1e9ca75b8a.jpg!
+!https://farm8.staticflickr.com/7574/15255964153_6ae24a5824.jpg!
+!https://farm8.staticflickr.com/7483/15688105888_64eafd9740.jpg!
+!https://farm9.staticflickr.com/8657/15688105858_f34f6ff813.jpg!
