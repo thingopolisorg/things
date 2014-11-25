@@ -4,8 +4,13 @@ category: lp
 title: You Sing a Song I'll Sing a Song
 ---
 
+- Title := You Sing a Song and I'll Sing a Song
 
+- Authors := Ella Jenkins
 
+- Publisher := Smithsonian Folkways
+
+- Year := 
 
 !https://farm8.staticflickr.com/7491/15253364874_ac5508a5ae.jpg!
 !https://farm8.staticflickr.com/7477/15874966532_1e9ca75b8a.jpg!
