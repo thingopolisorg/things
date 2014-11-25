@@ -1,0 +1,7 @@
+---
+layout: post
+category: books
+title: Test
+---
+
+!https://farm8.staticflickr.com/7498/15684578309_baf5eed579.jpg!
